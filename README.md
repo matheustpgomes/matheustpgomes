@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matheustpgomes
+- 👀 I’m interested in desenvolver soluççoes tecnológicas utilizando principalmente de data science e engenharia de dados.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate com conhecimento e experiências, me deixando disponível através dos contatos.
+- 📫 How to reach me : matheustpgomes@gmail.com | +55 (12) 98205-2818 | https://www.linkedin.com/in/matheusteixeirapereiragomes
